@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254366693159",
+    "project_id": "my-first-project-d57f6",
+    "storage_bucket": "my-first-project-d57f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254366693159:android:a4308836f6fb17cfea1b02",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_unipac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSvF2JkhgaNhp3-sO6R7dCElZL5RkjP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
